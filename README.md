@@ -1,5 +1,5 @@
 # Stereo_matching_slanted_support
-This is the code in paper [Efficient Methods Using Slanted Windows for Slanted Surfaces](http://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2015.0106
+This is the code in paper [Efficient Methods Using Slanted Windows for Slanted Surfaces](http://apps.webofknowledge.com/Search.do?product=WOS&SID=C5oqWs1CGyfqY8n42RB&search_mode=GeneralSearch&prID=e0079d24-9970-4978-b331-45a7e5e80791
 ), which I pulished when I did research on stereo matching during master study.
 
 ## Brief of algorithm
