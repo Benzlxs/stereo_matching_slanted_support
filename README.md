@@ -2,8 +2,8 @@
 This is the code in paper [Efficient Methods Using Slanted Windows for Slanted Surfaces](http://apps.webofknowledge.com/Search.do?product=WOS&SID=C5oqWs1CGyfqY8n42RB&search_mode=GeneralSearch&prID=e0079d24-9970-4978-b331-45a7e5e80791
 ), which I pulished when I did research on stereo matching during master study.
 
-## Brief of algorithm
-The	cost computation: absolute difference (AD)  +  census transform (CT) 
+## Brief introduction of algorithm
+The cost computation: absolute difference (AD)  +  census transform (CT) 
 The cost aggregation: bilateral filter is used to adapte weight according the slanted support window in disparity space
 The post processing: outlier detection, outlier filling and refinement of disparities
 
@@ -20,7 +20,7 @@ Citation is very important for researchers. If you find this code useful, please
         year      = 2016,
         pages     = {384-391},
         month     = 8,
-        note      = {http://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2015.0106}, 
+        note      = {http://apps.webofknowledge.com/Search.do?product=WOS&SID=C5oqWs1CGyfqY8n42RB&search_mode=GeneralSearch&prID=e0079d24-9970-4978-b331-45a7e5e80791}, 
         volume    = 10
 }
 ```
