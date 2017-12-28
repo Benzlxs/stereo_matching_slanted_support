@@ -3,9 +3,12 @@ This is the code in paper [Efficient Methods Using Slanted Windows for Slanted S
 ), which I pulished when I did research on stereo matching during master study.
 
 ## Brief introduction of algorithm
-The cost computation: absolute difference (AD)  +  census transform (CT) 
-The cost aggregation: bilateral filter is used to adapte weight according the slanted support window in disparity space
-The post processing: outlier detection, outlier filling and refinement of disparities
+The cost computation: absolute difference (AD)  +  census transform (CT).
+
+The cost aggregation: bilateral filter is used to adapte weight according the slanted support window in disparity space.
+
+The post processing: outlier detection, outlier filling and refinement of disparities.
+
 
 ## Compliation
 The code is a Visual Studio 2010 project on Windows x64 platform. To build the project, you need to configure OpenCV. (>=version 2.4.6). The code requires no platform-dependent libraries. Thus, it is easy to compile it on other platforms with OpenCV.
